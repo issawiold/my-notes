@@ -35,9 +35,9 @@
 17. when naming a or reffering to a file or a folder use **(\ )** to add a space to the name 
 
 ##### the basic commands of git
-*git clone ssh-link* to create a local copy of the repository on your device using ssh
-*git add .* adds a change in the working directory to the staging area
-*git status* displays the state of the working directory and the staging area
-*git commit -m"comment"* add a comment on the codde
-*git push origin main* upload the repository to github
+- *git clone ssh-link* to create a local copy of the repository on your device using ssh
+- *git add .* adds a change in the working directory to the staging area
+- *git status* displays the state of the working directory and the staging area
+- *git commit -m"comment"* add a comment on the codde
+- *git push origin main* upload the repository to github
 
